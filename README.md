@@ -55,7 +55,7 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y verificar si hay algún patrón o conocimiento que sirva en un análisis posterior. Una gráfica muy representativa de este proceso es las nubes de palabras que nos mostrarán cuales son las palabras que se presentan con una mayor frecuencia, a continuación mostraremos la gráfica sobre la columna 'Dirección Normalizada' con lo cual se puede ver que las palabras 'gneral paz' y 'av' que representa a avenida son las que aparecen con mayor frecuencia en los sinistros viales 
 
 <p align="center">
-  <img src="src\nube.jpg" >
+  <img src="src\nube.png" >
 </p>
 
 
