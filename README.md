@@ -101,7 +101,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
 
-  <p align="center">
+  <p align="">
   <img src="src\analisis06.png" >
   </p>
 
