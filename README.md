@@ -6,11 +6,9 @@
 
 El proyecto se desarrolló siguiendo estos aspectos clave:
 - Extracción data Hechos: [Extracción data link]()
-
 - Extracción data Victima: [Extracción data link]()
-
-- Análisis exploratorio de datos: [EDA link]()
-- Creación estrategia de inversión y KPI
+- Análisis Exploratorio de Datos: [EDA link]()
+- Creación de KPIs
 - Desarrollo de dashboard con PowerBI: [Dasboard link]()
 
 
