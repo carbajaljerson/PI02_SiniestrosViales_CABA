@@ -101,9 +101,6 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
 
-  <p align="">
-  <img src="src\analisis06.png" >
-  </p>
 
     En este caso, la *Tasa de homicidios en siniestros viales* del Semestre 2020 respecto al Semestre anterior del 2019 representa una mejor variación y esta por encima
     del objetivo del 10% y se cumple con el objetivo propuesto con un 34%.
