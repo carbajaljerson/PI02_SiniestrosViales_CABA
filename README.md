@@ -103,13 +103,8 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     
     En este caso, la *Tasa de homicidios en siniestros viales* del Semestre 2020 respecto al Semestre anterior del 2019 representa una mejor variación y esta por encima
-    del objetivo del 10% y se cumple con el objetivo propuesto.
+    del objetivo del 10% y se cumple con el objetivo propuesto con un 34%.
 
-    <p align="center">
-    <img src="src\analisis06.png" >
-    </p>
-
-    
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
@@ -122,11 +117,8 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     - $\text{Víctimas moto año actual}$: Número de accidentes mortales con víctimas en moto en el año actual 
 
     En este caso, el año 2020 respecto anterior del 2019 sobre el número de accidentes mortales en moto representa una mejor variación y esta por encima
-    del objetivo del 7% y se cumple con el objetivo propuesto.
+    del objetivo del 7% y se cumple con el objetivo propuesto con un 42%.
 
-    <p align="center">
-    <img src="src\analisis07.jpg" >
-    </p>
     
 * *Reducir en un 19% la cantidad de accidentes mortales en el último año, en CABA, respecto al año anterior*
 
@@ -139,12 +131,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     - $\text{Víctimas moto año actual}$: Número de accidentes mortales con víctimas en el año actual 
 
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
-    del objetivo del 19% y se cumple con el objetivo propuesto.
-
-    <p align="center">
-    <img src="src\analisis08.jpg" >
-    </p>
-
+    del objetivo del 19% y se cumple con el objetivo propuesto con un 30%.
 
 ## **5  Conclusiones
 
