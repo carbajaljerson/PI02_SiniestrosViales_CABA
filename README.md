@@ -106,7 +106,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     del objetivo del 10% y se cumple con el objetivo propuesto.
 
     <p align="center">
-    <img src="src\analisis06.jpg" >
+    <img src="src\analisis06.png" >
     </p>
 
     
