@@ -100,7 +100,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 - Se halló que el sexo Masculino es el que tiene un mayor porcentaje de siniestros viales con un 76%
 
 <p align="center">
-<img src="src\analisis0.png" height=250 weight=350>
+<img src="src\analisis05.png" height=250 weight=350>
 </p>
 
 
