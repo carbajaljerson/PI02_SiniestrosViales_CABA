@@ -102,7 +102,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 
 
-- Se halló que el sexo Masculino es el que tiene un mayor porcentaje en los siniestros viales con un 76% con el rango de edad entre 18-35 años con más víctimas, y con respecto al género femenino tiene que cuando la edad supera los 55 años poseen mayor número de víctimas.  
+- Se halló que el sexo Masculino es el que tiene un mayor porcentaje en los siniestros viales con un 76% con el rango de edad entre 18-35 años con más víctimas, y con respecto al género femenino se verifica que cuando la edad supera los 55 años esta asociada a un mayor número de víctimas.  
 
 <p align="center">
 <img src="src\analisis06.png" height=250 weight=400>
