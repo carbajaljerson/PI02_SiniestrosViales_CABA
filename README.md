@@ -160,10 +160,10 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
 En función de lo anterior, se hacen las siguientes recomendaciones:
 
 
-- Se deben de generar campañas de concientización en las comunas que tienen un alto número de víctimas; así como eliminar la contaminación visual en las principales avenidas ya que esto aumenta la distracción de los conductores.
+- Se debe de generar campañas de concientización en las comunas que tienen un alto número de víctimas; así como eliminar la contaminación visual en las principales avenidas ya que esto aumenta la distracción de los conductores.
 - Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años.
-- Debede existir un reglamento más riguroso para la obtención de la licencia de vehículos y especificamente sobre quienes usan moto se debe establecer un control en el uso obligatorio de casco certificado.
-- Es en el mes de Diciembre donde se debe de reforzar la seguridad vial por medio de operativos policiales en las principales avenidas.
+- Debe existir un reglamento más riguroso para la obtención de la licencia de vehículos y especificamente sobre quienes usan moto se debe establecer un control en el uso obligatorio de casco certificado.
+- Es en el mes de Diciembre donde se debería reforzar la seguridad vial por medio de operativos policiales en las principales avenidas.
 
 
 ## 🛠 Tecnologías Utilizadas
