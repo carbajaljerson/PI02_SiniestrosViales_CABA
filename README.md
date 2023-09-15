@@ -69,12 +69,11 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 <img src="src\nube.png"  height = 300 weight=400>
 </p>
 
-
-## **3. Análisis de Datos **
+## **3. Análisis de Datos**
 - La principal causa de víctimas en las carreteras son las motos, seguidos de los peatones y los autos. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos  en los accidentes de tráfico. Es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos para mitigar los riesgos asociados con los accidentes.
 
 <p align="left" >
-&nbsp;	&nbsp;
+&nbsp;	&nbsp;&nbsp;&nbsp;
 <img src="src\analisis01.png"  height = 400 weight=500>
 </p>
 
@@ -145,7 +144,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% y se cumple con el objetivo propuesto con un 30%.
 
-## **5  Conclusiones**
+## **5. Conclusiones**
 
 Mis principales conclusiones sobre la evolución de los accidentes de tráfico en CABA son los siguientes:
  
