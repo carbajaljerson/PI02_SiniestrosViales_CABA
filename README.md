@@ -66,7 +66,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 
 
-## **3. Análisis de Datos 
+## **3. Análisis de Datos **
 - La principal causa de víctimas en las carreteras son las motos, seguidos de los peatones y los autos. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos  en los accidentes de tráfico. Es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos para mitigar los riesgos asociados con los accidentes.
 
 <p align="center">
@@ -101,7 +101,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 
 
-## KPIs
+## **4. Creación de KPIs**
 * *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
 
     Se define como **Tasa de homicidios en siniestros viales** al número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso se toman 6 meses. Su fórmula es:
@@ -140,7 +140,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% y se cumple con el objetivo propuesto con un 30%.
 
-## **5  Conclusiones
+## **5  Conclusiones**
 
 Mis principales conclusiones sobre la evolución de los accidentes de tráfico en CABA son los siguientes:
  
