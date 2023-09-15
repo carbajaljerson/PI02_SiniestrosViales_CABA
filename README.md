@@ -1,7 +1,8 @@
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+![](https://komarev.com/ghpvc/?username=carbajaljerson&label=PROFILE+VIEWS)
 
 <p align=center><img src="src\logo.png"><p>
 
