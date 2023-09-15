@@ -107,23 +107,16 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
 ## **4. Creación de KPIs**
 
->- *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
->   
-> Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
-  Su fórmula es:  $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}x100,000$
+* *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
+    La **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.  Su fórmula es: 
+    (Número de homicidios en siniestros viales / Población total) * 100,000
 
->  En este caso, la *Tasa de homicidios en siniestros viales* del Semestre 2020 respecto al Semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% y se cumple con el objetivo propuesto con un 34%.
+    En este caso, la **Tasa de homicidios en siniestros viales** del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% y se cumple con el objetivo propuesto con un 34%.
 
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
-    Su fórmula es:
-
-    $\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}X100$
-
-    Donde:
-    - $\text{Víctimas moto año anterior}$: Número de accidentes mortales con víctimas en moto en el año anterior
-    - $\text{Víctimas moto año actual}$: Número de accidentes mortales con víctimas en moto en el año actual 
+    Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
     En este caso, el año 2020 respecto anterior del 2019 sobre el número de accidentes mortales en moto representa una mejor variación y esta por encima
     del objetivo del 7% y se cumple con el objetivo propuesto con un 42%.
@@ -131,13 +124,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     
 * *Reducir en un 19% la cantidad de accidentes mortales en el último año, en CABA, respecto al año anterior*
 
-    Su fórmula es:
-
-    $\text{Cantidad de accidentes mortales} = -\frac{\text{Víctimas año anterior - Víctimas año actual}}{\text{Víctimas año anterior}}X100$
-
-    Donde:
-    - $\text{Víctimas moto año anterior}$: Número de accidentes mortales con víctimas en el año anterior
-    - $\text{Víctimas moto año actual}$: Número de accidentes mortales con víctimas en el año actual 
+    Su fórmula para medir la evolución de los accidentes mortales es: (Número de accidentes mortales en el año anterior - Número de accidentes mortales en el año actual) / (Número de accidentes mortales en el año anterior) * 100
 
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% y se cumple con el objetivo propuesto con un 30%.
@@ -160,8 +147,8 @@ En función de lo anterior, se hacen las siguientes recomendaciones:
 
 - Se deben de generar campañas de concientización en las comunas que tienen un alto número de víctimas; así como eliminar la contaminación visual en las principales avenidas ya que esto aumenta la distracción de los conductores.
 - Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años.
-- Debede existir un reglamento más riguroso para la obtención de la licencia de vehículos y especificamente sobre quienes usan moto se debe establecer un control respecto al uso de casco certificado.
-- En el mes de Diciembre se debe ser de reforzar la seguridad vial por medio de operativos policiales de control en las principales avenidas.
+- Debede existir un reglamento más riguroso para la obtención de la licencia de vehículos y especificamente sobre quienes usan moto se debe establecer un control en el uso obligatorio de casco certificado.
+- Es en el mes de Diciembre donde se debe de reforzar la seguridad vial por medio de operativos policiales en las principales avenidas.
 
 
 ## 🛠 Tecnologías Utilizadas
