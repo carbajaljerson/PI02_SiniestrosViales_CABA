@@ -1,9 +1,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+[![HitCount](https://hits.dwyl.com/dwyl/hits.svg)](https://github.com/carbajaljerson/PI02_SiniestrosViales_CABA)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-[![](https://visitcount.itsvg.in/api?id=carbajaljerson&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <p align=center>
 <img src="src\logo.png" height = 150 weight=250>
