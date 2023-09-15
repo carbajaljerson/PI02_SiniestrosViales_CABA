@@ -2,9 +2,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![](https://komarev.com/ghpvc/?username=carbajaljerson&label=PROFILE+VIEWS)
+![visitor badge](https://PI02_SiniestrosViales_CABA.laobi.icu/badge?page_id=jwenjian.PI02_SiniestrosViales_CABA-query&query_only=true)
 
-<p align=center><img src="src\logo.png"><p>
+<p align=center>
+<img src="src\logo.png" height = 150 weight=250>
+<p>
 
 # <h1 align="center">**`Siniestros Viales en la Ciudad Atónoma de Buenos Aires (CABA)`**</h1>
 
@@ -31,8 +33,7 @@ Solo en 2022, el número de muertes por accidentes de tránsito alcanzó a 3'828
 
 El siguiente proyecto contiene los siguientes desarrollos:
 
-- Extracción Transformación y Carga sobre la data Hechos
-- Extracción Transformación y Carga sobre la data Victima
+- Extracción Transformación y Carga sobre la data Hechos y de Victima
 - Análisis Exploratorio de Datos
 - Creación de Dashboard y Análisis con PowerBI
 - Creación de KPIs
@@ -60,37 +61,38 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 
 ## **2. Análisis Exploratorio de los Datos (EDA)**
 
-Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y verificar si hay algún patrón o conocimiento que sirva en un análisis posterior. Una gráfica muy representativa de este proceso es las nubes de palabras que nos mostrarán cuales son las palabras que se presentan con una mayor frecuencia, a continuación mostraremos la gráfica sobre la columna 'Dirección Normalizada' con lo cual se puede ver que las palabras 'gneral paz' y 'av' que representa a avenida son las que aparecen con mayor frecuencia en los sinistros viales 
+Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior. Una gráfica muy representativa de este proceso es las nubes de palabras que nos mostrarán cuales son las palabras que se presentan con una mayor frecuencia, a continuación mostraremos la gráfica sobre la columna 'Dirección Normalizada' con lo cual se puede ver que las palabras 'gneral paz' y 'av' que representa a avenida son las que aparecen con mayor frecuencia en los sinistros viales 
+
 
 <p align="center">
-  <img src="src\nube.png" >
+<img src="src\nube.png"  height = 300 weight=400>
 </p>
 
 
 ## **3. Análisis de Datos **
 - La principal causa de víctimas en las carreteras son las motos, seguidos de los peatones y los autos. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos  en los accidentes de tráfico. Es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos para mitigar los riesgos asociados con los accidentes.
 
-<p align="center">
-  <img src="src\analisis01.jpg" >
+<p align="left" >
+<img src="src\analisis01.png"  height = 400 weight=500>
 </p>
 
 - La mayor parte de accidentes ocurrieron en las comunas 1 , 4 y 9, es necesario indicar que estas comunas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como una mayor densidad de población, un mayor volumen de tráfico, redes de carreteras complejas y diversos modos de transporte que interactúan en estas comunas pueden estar contribuyendo a la mayor tasa de víctimas.
 
 <p align="center">
-  <img src="src\analisis02.jpg" >
+<img src="src\analisis02.png" >
 </p>
 
 - El rango de edades involucrado en la mayor cantidad de accidentes es el que está comprendido entre los 18 a 35 años de edad. Aquí se debe de tener en cuenta factores como el aumento del volumen de tráfico, las velocidades más altas, las distracciones durante el la ruta pueden contribuir a una mayor incidencia de accidentes.
 
 <p align="center">
-  <img src="src\analisis03.jpg" >
+<img src="src\analisis03.png" >
 </p>
 
 - El mapa donde se localizan los puntos donde ocurrieron los accidentes nos sirve de mucha ayuda ya que nos muestran las principales zonas donde existe una mayor frecuencia de accidentes, esto es el caso de que si filtramos por una específica comuna podemos reconocer las avenidas que presentan mayor cantidad de accidentes, esto nos sirve para realizar políticas urbanas y así mitigar la tasa de mortalidad por siniestros viales.
 
 
 <p align="center">
-  <img src="src\analisis04.jpg" >
+<img src="src\analisis04.png" >
 </p>
 
 - Podemos reconcer que los días que presentan mayor cantidad de siniestros viales son los Lunes y Sábados, así como tambien los mese donde existen mayores frecuencias de accidentes son los meses de Noviembre y Diciembre.
@@ -98,7 +100,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 - Se halló que el sexo Masculino es el que tiene un mayor porcentaje de siniestros viales con un 76%
 
 <p align="center">
-  <img src="src\analisis05.jpg" >
+<img src="src\analisis05.png" >
 </p>
 
 
