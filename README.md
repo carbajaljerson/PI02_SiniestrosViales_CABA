@@ -1,18 +1,25 @@
-# PI02_SiniestrosViales_CABA
+![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 
- ## Introducción
+<p align=center><img src="src\logo.png"><p>
+
+# <h1 align="center">**`Siniestros Viales en la Ciudad Atónoma de Buenos Aires (CABA)`**</h1>
+
+Bienvenidos a continuación se presenta el desarrollo del Proyecto Individual de Análisis de Datos
+
+## Introducción
 
 
+El presente proyecto se desarrolló bajo el perfil de un Data Analyst y tiene como finalidad la elaboración de un proyecto de análisis de datos para obtener información y conocimiento, este requerimiento es solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), que es un centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). La realización del proyecto permitirá a las autoridades locales tomar decisiones claves para mitigar la cantidad de víctimas mortales en los siniestros viales en la Ciudad Atónoma de Buenos Aires (CABA).
 
 
-El presente proyecto se desarrolló bajo el perfil de un Data Analyst y tiene como finalidad la elaboración de un proyecto de análisis de datos para obtener información y conocimiento, este requerimiento es solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), que es un centro de estudios que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). La realización del proyecto permitirá a las autoridades locales tomar decisiones pertinentes para disminuir la cantidad de víctimas fatales en los siniestros viales.
+Mediante el análisis de los datos sobre los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, entre los años 2016 y 2021, descubrí varias observaciones que pueden guiar a la toma de decisiones futuras por las autoridades. En este proyecto, compartiré mis hallazgos y brindaré recomendaciones que estan basadas en información que han sido derivados de un dataset de homicidios en siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA).
 
 
-Mediante el análisis de los datos sobre los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, entre los años 2016 y 2021, descubrí varias observaciones que pueden guiar a la toma de decisiones futuras. En este proyecto, compartiré mis hallazgos y brindaré recomendaciones que estan basadas en información que han sido derivados de un dataset de homicidios en siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA).
-
-
- ## Contexto
-Las muertes por siniestros viales en Argentina poseen cifras alarmantes los informes del Sistema Nacional de Información Criminal (SNIC), revelan que entre 2018 y 2022 se registraron 19.630 muertes en siniestros viales en todo el país.  Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.
+## Contexto
+Las muertes por siniestros viales en Argentina poseen cifras alarmantes los informes del Sistema Nacional de Información Criminal (SNIC), revelan que entre 2018 y 2022 se registraron 19'630 muertes en siniestros viales en todo el país.  Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.
 
 Esta es una gran problemática que afecta a todas las provincias, si bien algunas se ven más afectadas que otras, sigue siendo un factor que da que hablar en cada territorio. Al 2022 los siniestros totales que suceden en la provincia de Buenos Aires representan el 30%. Los siniestros viales involucran a diversos tipos de vehículos y actores en las vías públicas, y estos son automóviles, motos, bicicletas, peatones, atropellos, vehículos de carga y pasajeros. 
 
@@ -94,12 +101,12 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 
 
-## **4 KPIs
+## KPIs
 * *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
 
     Se define como **Tasa de homicidios en siniestros viales** al número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso se toman 6 meses. Su fórmula es:
 
-    $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
+    $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}X100,000$
 
 
     En este caso, la *Tasa de homicidios en siniestros viales* del Semestre 2020 respecto al Semestre anterior del 2019 representa una mejor variación y esta por encima
@@ -110,7 +117,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     Su fórmula es:
 
-    $\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}·100$
+    $\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}X100$
 
     Donde:
     - $\text{Víctimas moto año anterior}$: Número de accidentes mortales con víctimas en moto en el año anterior
@@ -124,7 +131,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     Su fórmula es:
 
-    $\text{Cantidad de accidentes mortales} = -\frac{\text{Víctimas año anterior - Víctimas año actual}}{\text{Víctimas año anterior}}·100$
+    $\text{Cantidad de accidentes mortales} = -\frac{\text{Víctimas año anterior - Víctimas año actual}}{\text{Víctimas año anterior}}X100$
 
     Donde:
     - $\text{Víctimas moto año anterior}$: Número de accidentes mortales con víctimas en el año anterior
@@ -139,20 +146,20 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
  
 ✅ Del 2016 al 2018 existe una mayor cantidad de siniestros viales en los años posteriores esta se fue reduciendo (2019-2021) y se verificó que son las motos las que tienen mayor participación en accidentes así como los rangos de edades entre 18-35 años.  
   
-✅ La comuna 1, es la que tiene la mayor concentración de accidentes.
+✅ La comuna 1, es la que tiene la mayor concentración de accidentes y se verico que las avenidas "9 de Julio" y "Paseo Colón" son las que tienen asociadas un número mayor de víctimas.
 
-✅ El rol de la víctima asociado a una mayor cantidad de accidentes es el Conductor
+✅ El rol de la víctima asociado a una mayor cantidad de accidentes es el Conductor en comparación con el pasajero acompañante.
  
-✅ El accidente típico se produce un Sábado a las 7 horas en el mes de Diciembre 
+✅ El accidente típico se produce un Sábado a las 7 horas en el mes de Diciembre. 
 
 
 En función de lo anterior, se hacen las siguientes recomendaciones:
 
 
-- Generar campañas de conducción y concientización en las avenidas principales de las comunas.
+- Se deben de generar campañas de concientización en las comunas que tienen un alto número de víctimas; así como eliminar la contaminación visual en las principales avenidas ya que esto aumenta la distracción de los conductores.
 - Realizar campañas respecto a la seguridad vial hacia el sexo masculino sobre el rango de edad de 18 a 35 años.
-- Debede existir un reglamento más rigurosos para obtener la licencia de motos.
-- El mes de Diciembre debe ser de reforzar las campañas de seguridad vial.
+- Debede existir un reglamento más riguroso para la obtención de la licencia de vehículos y especificamente sobre quienes usan moto se debe establecer un control respecto al uso de casco certificado.
+- En el mes de Diciembre se debe ser de reforzar la seguridad vial por medio de operativos policiales de control en las principales avenidas.
 
 
 ## 🛠 Tecnologías Utilizadas
