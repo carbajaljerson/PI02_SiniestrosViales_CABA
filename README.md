@@ -70,37 +70,42 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 </p>
 
 ## **3. Análisis de Datos**
-- La principal causa de víctimas en las carreteras son las motos, seguidos de los peatones y los autos. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos  en los accidentes de tráfico. Es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos para mitigar los riesgos asociados con los accidentes.
+- Los tres principales vehículos y/o medios de transporte asociados a una mayor cantidad de víctimas son las motos, seguidos de los autos y bicicletas. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos en los accidentes de tráfico; es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos como el uso de casco certificado para mitigar la mortandad en los accidentes.
 
 <p align="center" >
 <img src="src\analisis01.png"  height=450 weight=550>
 </p>
 
-- La mayor parte de accidentes ocurrieron en las comunas 1 , 4 y 9, es necesario indicar que estas comunas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como una mayor densidad de población, un mayor volumen de tráfico, redes de carreteras complejas y diversos modos de transporte que interactúan en estas comunas pueden estar contribuyendo a la mayor tasa de víctimas.
+- La mayor parte de accidentes ocurrieron en las comunas 1, 4 y 9 ante esto es necesario indicar que estas comunas requieren una mayor atención para mejorar las medidas de seguridad vial. Factores como una mayor densidad de población, un mayor volumen de tráfico, redes de carreteras complejas y diversos modos de transporte que interactúan en estas comunas pueden estar contribuyendo al incremento de accidentes de tránsito.
 
 <p align="center">
 <img src="src\analisis02.png" height=250 weight=350>
 </p>
 
-- El rango de edades involucrado en la mayor cantidad de accidentes es el que está comprendido entre los 18 a 35 años de edad. Aquí se debe de tener en cuenta factores como el aumento del volumen de tráfico, las velocidades más altas, las distracciones durante el la ruta pueden contribuir a una mayor incidencia de accidentes.
+- El rango de edades involucrado en la mayor cantidad de accidentes es el que está comprendido entre los 18 a 35 años de edad, al tratarse de una muestra joven se debe de tener en cuenta factores como el aumento de velocidad y las distracciones en la ruta pueden contribuir a una mayor incidencia de accidentes.
 
 <p align="center">
 <img src="src\analisis03.png" height=300 weight=400>
 </p>
 
-- El mapa donde se localizan los puntos donde ocurrieron los accidentes nos sirve de mucha ayuda ya que nos muestran las principales zonas donde existe una mayor frecuencia de accidentes, esto es el caso de que si filtramos por una específica comuna podemos reconocer las avenidas que presentan mayor cantidad de accidentes, esto nos sirve para realizar políticas urbanas y así mitigar la tasa de mortalidad por siniestros viales.
+- El mapa donde se localizan los puntos donde ocurrieron los accidentes nos sirve de mucha ayuda ya que nos muestra las principales zonas donde existe una mayor frecuencia de accidentes, esto ayuda a reconocer las avenidas que presentan mayor cantidad de víctimas, y a partir de esta información que se deben de realizar políticas urbanas para así mitigar la tasa de mortandad por siniestros viales.
 
 
 <p align="center">
 <img src="src\analisis04.png" height=250 weight=350>
 </p>
 
-- Podemos reconcer que los días que presentan mayor cantidad de siniestros viales son los Lunes y Sábados, así como tambien los mese donde existen mayores frecuencias de accidentes son los meses de Noviembre y Diciembre.
-
-- Se halló que el sexo Masculino es el que tiene un mayor porcentaje de siniestros viales con un 76%
+- Podemos identificar que los días que presentan mayor cantidad de víctimas son los Lunes y Sábados, así como también los meses donde existen mayores frecuencias de siniestros son los meses de Noviembre y Diciembre.
 
 <p align="center">
-<img src="src\analisis05.png" height=250 weight=350>
+<img src="src\analisis07.png" height=300 weight=400>
+</p>
+
+
+- Se halló que el sexo Masculino es el que tiene un mayor porcentaje en los siniestros viales con un 76% con el rango de edad entre 18-35 años con más víctimas, y con respecto al género femenino tiene que cuando la edad supera los 55 años poseen mayor número de víctimas.  
+
+<p align="center">
+<img src="src\analisis06.png" height=250 weight=400>
 </p>
 
 
@@ -112,6 +117,9 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     En este caso, la **Tasa de homicidios en siniestros viales** del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% y se cumple con el objetivo propuesto con un 34%.
 
+<p align="center">
+<img src="src\kpi01.png" height=300 weight=400>
+</p>
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
@@ -120,6 +128,9 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     En este caso, el año 2020 respecto anterior del 2019 sobre el número de accidentes mortales en moto representa una mejor variación y esta por encima
     del objetivo del 7% y se cumple con el objetivo propuesto con un 42%.
 
+<p align="center">
+<img src="src\kpi02.png" height=370 weight=470>
+</p>
     
 * *Reducir en un 19% la cantidad de accidentes mortales en el último año, en CABA, respecto al año anterior*
 
@@ -127,6 +138,11 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% y se cumple con el objetivo propuesto con un 30%.
+
+<p align="center">
+<img src="src\kpi03.png" height=370 weight=470>
+</p>
+
 
 ## **5. Conclusiones**
 
