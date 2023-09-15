@@ -2,7 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![visitor badge](https://PI02_SiniestrosViales_CABA.laobi.icu/badge?page_id=jwenjian.PI02_SiniestrosViales_CABA-query&query_only=true)
+![visitor badge](https://github.com/carbajaljerson/PI02_SiniestrosViales_CABA/?page_id=carbajaljerson.PI02_SiniestrosViales_CABA-query&query_only=true)
 
 <p align=center>
 <img src="src\logo.png" height = 150 weight=250>
