@@ -6,7 +6,6 @@
 
 
 <p align=center>
-&nbsp;	&nbsp;
 <img src="src\logo.png" height = 150 weight=250>
 <p>
 
@@ -75,6 +74,7 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 - La principal causa de víctimas en las carreteras son las motos, seguidos de los peatones y los autos. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos  en los accidentes de tráfico. Es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos para mitigar los riesgos asociados con los accidentes.
 
 <p align="left" >
+&nbsp;	&nbsp;
 <img src="src\analisis01.png"  height = 400 weight=500>
 </p>
 
