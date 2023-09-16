@@ -87,60 +87,55 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 <img src="src\analisis03.png" height=300 weight=400>
 </p>
 
-- El mapa donde se localizan los puntos donde ocurrieron los accidentes nos sirve de mucha ayuda ya que nos muestra las principales zonas donde existe una mayor frecuencia de accidentes, esto ayuda a reconocer las avenidas que presentan mayor cantidad de víctimas, y a partir de esta información que se deben de realizar políticas urbanas para así mitigar la tasa de mortandad por siniestros viales.
+- En el siguiente mapa se localizan los puntos donde ocurrieron los accidentes nos sirve de mucha ayuda ya que nos muestra las principales zonas donde existe una mayor número de víctimas, esto ayuda a reconocer las avenidas relacionadas a los siniestros y a partir de esta información se debe de realizar políticas urbanas para lograr mitigar la tasa de mortandad por siniestros viales.
 
 
 <p align="center">
 <img src="src\analisis04.png" height=250 weight=350>
 </p>
 
-- Podemos identificar que los días que presentan mayor cantidad de víctimas son los Lunes y Sábados, así como también los meses donde existen mayores frecuencias de siniestros son los meses de Noviembre y Diciembre.
+- Podemos identificar los días Lunes y Sábados son los que presentan un mayor número de víctimas, así como también los meses con mayor frecuencia de siniestros son los meses de Noviembre y Diciembre. Sobre la franja horaria podemos añadir que entre las horas 5-7 estan asociadas a un mayor número de víctimas.
 
 <p align="center">
-<img src="src\analisis07.png" height=300 weight=400>
+<img src="src\analisis07.png" height=500 weight=600>
 </p>
 
 
-- Se halló que el sexo Masculino es el que tiene un mayor porcentaje en los siniestros viales con un 76% con el rango de edad entre 18-35 años con más víctimas, y con respecto al género femenino se verifica que cuando la edad supera los 55 años esta asociada a un mayor número de víctimas.  
+- Se halló que el sexo Masculino es el que tiene asociado un mayor porcentaje en los siniestros viales con un 76% y rango de edad entre 18-35 años; con respecto al género femenino se verifica que cuando la edad supera los 55 años y la franja horaria es de 9-15 horas esta asociada a un mayor número de víctimas.  
 
 <p align="center">
-<img src="src\analisis06.png" height=250 weight=400>
+<img src="src\analisis06.png" height=400 weight=550>
 </p>
 
 
 ## **4. Creación de KPIs**
 
 * *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
-    La **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.  Su fórmula es: 
+    La **tasa de homicidios en siniestros viales** está definida como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. <br>Su fórmula es: 
     (Número de homicidios en siniestros viales / Población total) * 100,000
 
-    En este caso, la **Tasa de homicidios en siniestros viales** del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% y se cumple con el objetivo propuesto con un 34%.
+<p align="center"><img src="src\kpi01.png" height=300 weight=400></p>
 
-<p align="center">
-<img src="src\kpi01.png" height=300 weight=400>
-</p>
+    En este caso, la **Tasa de homicidios en siniestros viales** del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% alcanzando el objetivo propuesto con un 34%.
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
-    Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
+    Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: <br>(Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
+<p align="center"><img src="src\kpi02.png" height=340 weight=500></p>
     En este caso, el año 2020 respecto anterior del 2019 sobre el número de accidentes mortales en moto representa una mejor variación y esta por encima
-    del objetivo del 7% y se cumple con el objetivo propuesto con un 42%.
-
-<p align="center">
-<img src="src\kpi02.png" height=370 weight=470>
-</p>
+    del objetivo del 7% alcanzando el objetivo propuesto con un 42%
     
 * *Reducir en un 19% la cantidad de accidentes mortales en el último año, en CABA, respecto al año anterior*
 
     Su fórmula para medir la evolución de los accidentes mortales es: (Número de accidentes mortales en el año anterior - Número de accidentes mortales en el año actual) / (Número de accidentes mortales en el año anterior) * 100
 
-    En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
-    del objetivo del 19% y se cumple con el objetivo propuesto con un 30%.
+<p align="center"><img src="src\kpi03.png" height=340 weight=450></p>
 
-<p align="center">
-<img src="src\kpi03.png" height=370 weight=470>
-</p>
+    En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
+    del objetivo del 19% alcanzando el objetivo propuesto con un 30%.
+
+
 
 
 ## **5. Conclusiones**
