@@ -66,6 +66,12 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
 <p align="center">
 <img src="src\nube.png"  height=300 weight=400>
 </p>
+El mapa de calor nos ayuda a obtener una representación visual de los puntos de Localización de los Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA) donde los colores más cálidos reflejan una mayor concentración de Siniestros, mientras que los colores frios indican un menor número de Siniestros 
+<p align="center">
+<img src="src\mapa.png"  height=300 weight=400>
+</p>
+
+Se reconoce que la mayor cantidad de Siniestros Viales se encuentran al Este de la Ciudad Autónoma de Buenos Aires y corresponden a las comunas 1 y 4
 
 ## **3. Análisis de Datos**
 - Los tres principales vehículos y/o medios de transporte asociados a una mayor cantidad de víctimas son las motos, seguidos de los autos y bicicletas. Las motos causaron casí la mitad de la muertes representando el 42%. Esto pone de relieve el importante impacto y participación de las motos en los accidentes de tráfico; es crucial abordar factores como el comportamiento del conductor, la infraestructura vial y las medidas de seguridad de las motos como el uso de casco certificado para mitigar la mortandad en los accidentes.
