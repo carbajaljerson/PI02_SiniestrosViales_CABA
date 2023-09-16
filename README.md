@@ -115,7 +115,6 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     (Número de homicidios en siniestros viales / Población total) * 100,000
 
 <p align="center"><img src="src\kpi01.png" height=300 weight=400></p>
-
     En este caso, la **Tasa de homicidios en siniestros viales** del Semestre 2020 respecto al semestre anterior del 2019 representa una mejor variación y esta por encima del objetivo del 10% alcanzando el objetivo propuesto con un 34%.
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
@@ -131,7 +130,6 @@ Una vez que los datos están limpios, es tiempo de revisar las relaciones que ex
     Su fórmula para medir la evolución de los accidentes mortales es: (Número de accidentes mortales en el año anterior - Número de accidentes mortales en el año actual) / (Número de accidentes mortales en el año anterior) * 100
 
 <p align="center"><img src="src\kpi03.png" height=340 weight=450></p>
-
     En este caso, el año 2019 respecto anterior del 2018 sobre el número de accidentes mortales representa una mejor variación y esta por encima
     del objetivo del 19% alcanzando el objetivo propuesto con un 30%.
 
