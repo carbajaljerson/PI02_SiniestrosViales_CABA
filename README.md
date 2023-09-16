@@ -143,6 +143,8 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
   
 ✅ La comuna 1, es la que tiene la mayor concentración de accidentes y se verico que las avenidas "9 de Julio" y "Paseo Colón" son las que tienen asociadas un número mayor de víctimas.
 
+✅ El rango de edad de la víctima cuando el sexo masculino está entre 18-35 años y cuando el sexo es femenino la edad es superior a 55 años.
+
 ✅ El rol de la víctima asociado a una mayor cantidad de accidentes es el Conductor en comparación con el pasajero acompañante.
  
 ✅ El accidente típico se produce un Sábado a las 7 horas en el mes de Diciembre. 
