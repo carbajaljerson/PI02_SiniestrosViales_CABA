@@ -61,7 +61,7 @@ Los datos utilizados para este proyecto de análisis, estan en el siguiente [enl
 
 ## **2. Análisis Exploratorio de los Datos (EDA)**
 
-Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior. Una gráfica muy representativa de este proceso es las nubes de palabras que nos mostrarán cuales son las palabras que se presentan con una mayor frecuencia, a continuación mostraremos la gráfica sobre la columna 'Dirección Normalizada' con lo cual se puede ver que las palabras 'gral paz' y 'av' representan avenidas y son las que aparecen con mayor frecuencia en los sinistros viales
+Una vez que los datos están limpios, es tiempo de revisar las relaciones que existen entre las variables de los datasets, encontrar si hay presencia de outliers o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior. Una gráfica muy representativa de este proceso es las nubes de palabras que nos mostrarán cuales son las palabras que se presentan con una mayor frecuencia, a continuación mostraremos la gráfica sobre la columna 'Dirección Normalizada' con lo cual se puede ver que las palabras 'gral paz' y 'av' representan avenidas y son las que aparecen con mayor frecuencia en los siniestros viales
 
 <p align="center">
 <img src="src\nube.png"  height=300 weight=400>
@@ -143,7 +143,7 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
   
 ✅ La comuna 1, es la que tiene la mayor concentración de accidentes y se verico que las avenidas "9 de Julio" y "Paseo Colón" son las que tienen asociadas un número mayor de víctimas.
 
-✅ El rango de edad de la víctima cuando el sexo masculino está entre 18-35 años y cuando el sexo es femenino la edad es superior a 55 años.
+✅ El rango de edad de la víctima cuando el sexo es masculino está entre 18-35 años y cuando el sexo es femenino la edad es superior a 55 años.
 
 ✅ El rol de la víctima asociado a una mayor cantidad de accidentes es el Conductor en comparación con el pasajero acompañante.
  
